@@ -29,3 +29,6 @@ $ + p + s - telescope: grep
 $ + u     - undotree: shows the undo history
 $ + p + v - file tree
 ```
+
+## References
+- [lol](https://github.com/ThePrimeagen/init.lua)

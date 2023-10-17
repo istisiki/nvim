@@ -11,8 +11,9 @@
 - [telescope](https://github.com/nvim-telescope/telescope.nvim)
 - [treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 - [undotree](https://github.com/mbbill/undotree)
-- [comment](https://github.com/numToStr/Comment.nvim)
-- [gitsigns](https://github.com/lewis6991/gitsigns.nvim)
+- [numToStr/comment](https://github.com/numToStr/Comment.nvim)
+- [lewis6991/gitsigns](https://github.com/lewis6991/gitsigns.nvim)
+- [folke/trouble](https://github.com/folke/trouble.nvim)
 
 ## Key Bindings
 ```
